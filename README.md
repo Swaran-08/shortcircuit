@@ -1,4 +1,4 @@
-# shortcircuitint bulb1 = 13;
+# shortcircuitint;
 int redLED = 11;
 int yellowLED = 10;
 int greenLED = 9;
